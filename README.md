@@ -1,0 +1,1 @@
+# sum-of-even-and-odd-numbers-in-a-array
