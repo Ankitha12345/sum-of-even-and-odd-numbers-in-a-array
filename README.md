@@ -17,7 +17,9 @@ e_sum = e_sum+a[i];
 else if(a[i]%2==1 && i%2==1)
 O_sum = o_sum+a[i];
 }
-
+Syst3m.out.println(e_sum+" "+o_sum);
+}
+}
 
 
 
